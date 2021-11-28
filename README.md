@@ -1,0 +1,1 @@
+"# Mangatx-manga-scraper" 
